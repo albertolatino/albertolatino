@@ -1,6 +1,7 @@
 ### Hello, I'm Alberto!
 
 I'm a recent graduate in Computer Science and Engineering MSc at Politecnico di Milano.
+
 I've written my research thesis in Operations Research and Online Learning for User History-Dependent Advertising, submitted to NeurIPS 2023 conference. 
 
 My interests are mainly Machine Learning and Software Engineering. 
