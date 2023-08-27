@@ -1,7 +1,14 @@
 ### Hello, I'm Alberto!
 
-Hi, my name is Alberto Latino, I'm a recent graduate in Computer Science and Engineering MSc with a research thesis on Operations Research for User History-Dependent Advertising, submitted to NeurIPS 2023 conference. 
-My first interests are Machine Learning and Software Engineering 
+I'm a recent graduate in Computer Science and Engineering MSc at Politecnico di Milano
+I wrote my research thesis in Operations Research and Online Learning for User History-Dependent Advertising, submitted to NeurIPS 2023 conference. 
+
+My interests are mainly Machine Learning and Software Engineering. 
+
+I worked as a Business Intelligence Engineer at [Amazon] (https://www.amazon.jobs/it/business_categories/transport) in the Global Transportation Team, where I gained experience in Machine Learning, Natural Language Processing and ETL Data Pipelines.
+
+Here is my [Linkedin]([https://www.quora.com](https://www.linkedin.com/in/alberto-latino-34610769/)), feel free to reach out!
+
 
 
 
