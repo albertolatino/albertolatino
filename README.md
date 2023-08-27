@@ -7,7 +7,7 @@ My interests are mainly Machine Learning and Software Engineering.
 
 I worked as a Business Intelligence Engineer at [Amazon](https://www.amazon.jobs/it/business_categories/transport) in the Global Transportation Team, where I gained experience in Machine Learning, Natural Language Processing and ETL Data Pipelines.
 
-Here is my [Linkedin][https://www.quora.com](https://www.linkedin.com/in/alberto-latino-34610769/), feel free to reach out!
+Here is my [Linkedin](https://www.linkedin.com/in/alberto-latino-34610769/), feel free to reach out!
 
 
 
