@@ -1,12 +1,9 @@
 ### Hello, I'm Alberto!
 
-I'm a recent graduate in Computer Science and Engineering MSc at Politecnico di Milano where I've written my research thesis in Operations Research and Online Learning for User History-Dependent Advertising, submitted to NeurIPS 2023 conference. 
+Computer Science @ Politecnico di Milano
+Software Engineer @ Amazon
 
-My interests are mainly Machine Learning and Software Engineering. 
-
-I worked as a Business Intelligence Engineer at [Amazon](https://www.amazon.jobs/it/business_categories/transport) in the Global Transportation Team, where I gained experience in Machine Learning, Natural Language Processing and ETL Data Pipelines.
-
-Here is my [Linkedin](https://www.linkedin.com/in/alberto-latino-34610769/), feel free to reach out!
+Here is my [Linkedin](https://www.linkedin.com/in/alberto-latino-34610769/)
 
 
 
